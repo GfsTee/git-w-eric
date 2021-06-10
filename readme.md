@@ -17,3 +17,8 @@ git merge conflict
 
 Head => lokale Änderung
 Incoming => Änderung von github
+
+KOMMUNIKATION! 
+
+Gute Benennung der CSS Klassen / IDs => spezifisch sein
+#hero .container 
