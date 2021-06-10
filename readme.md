@@ -22,3 +22,17 @@ KOMMUNIKATION!
 
 Gute Benennung der CSS Klassen / IDs => spezifisch sein
 #hero .container 
+
+
+falls es ein Textfeld gibt (wegen Merge oder anderen Dingen) => :q ENTER
+
+Branches
+
+git branch -a
+=> zeigt wo wir uns befinden und was es an branches gibt
+
+git branch <name>
+=> erstellt neuen branch
+
+git checkout <name>
+=> wechselt den branch
