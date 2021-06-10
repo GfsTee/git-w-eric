@@ -37,3 +37,7 @@ git branch <name>
 git checkout <name>
 => wechselt den branch
 
+man wechselt auf den branch, in den die Änderungen hinzugefügt werden sollen
+und nutzt
+git merge <name>
+um die Änderungen dieses Branches zu dem aktuellen branch hinzuzufügen!
