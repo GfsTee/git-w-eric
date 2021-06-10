@@ -13,3 +13,7 @@ mit clone haben wir dann auch direkt den remote origin etc und können direkt pu
 
 Wenn sich auf github etwas geändert hat, das ihr noch nicht habt müsst ihr mit git pull arbeiten um die neuen infos zu bekommen
 
+git merge conflict
+
+Head => lokale Änderung
+Incoming => Änderung von github
