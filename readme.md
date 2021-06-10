@@ -10,3 +10,6 @@ in dem Repo auf Settings
 
 => git clone <LINK>
 mit clone haben wir dann auch direkt den remote origin etc und können direkt pushen
+
+Wenn sich auf github etwas geändert hat, das ihr noch nicht habt müsst ihr mit git pull arbeiten um die neuen infos zu bekommen
+
